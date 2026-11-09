@@ -1,0 +1,20 @@
+# build output
+obj-ps2/
+*.o
+*.elf
+host/ngcd_host
+tools/ngcdconv/ngcdconv
+tools/ngcdconv/ngcdconv.exe
+
+# BIOS, games, converted discs (not part of the project)
+NEOCD.BIN
+NG_LO.ROM
+neocd.bin
+*.rom
+DATA.ISO
+TOC.BIN
+*.NGA
+*.cue
+*.iso
+*.bin
+*.7z
